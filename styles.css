@@ -1,8 +1,8 @@
 <style media="screen">
-  body {background-color: lightblue}
-  h1 {color: darkblue}
-  h2 {color: darkblue}
-  h3 {color: darkblue}
+  body {background-color: red}
+  h1 {color: blue}
+  h2 {color: blue}
+  h3 {color: blue}
   hr{
     border-top-style: dotted;
     border-top-color: gray;
