@@ -1,0 +1,15 @@
+<style media="screen">
+  body {background-color: lightblue}
+  hr{
+    border-top-style: dotted;
+    border-top-color: gray;
+    border-width: thick;
+
+    border-left-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    background-color: lightblue;
+    width: 10%;
+
+  }
+</style>
